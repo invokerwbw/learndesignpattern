@@ -4,3 +4,6 @@
 # IDEA file
 *.iml
 .idea/
+
+# Maven project target
+target/
